@@ -16,7 +16,7 @@ namespace AlterunaFPS
 		public EfxManager.ImpactType MaterialType = EfxManager.ImpactType.Stone;
 		
 		public float PenetrationResistance = 0.5f;
-		public float DamageMultiplier = 1f;
+		public float DamageMultiplier = 2f;
 		public float HealthPoints = 0f;
 		
 		public UnityEvent OnDeath;
